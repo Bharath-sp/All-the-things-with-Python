@@ -1,1 +1,7 @@
-Elementary python programs that help to understand functionalities and features of Python
+Elementary python programs that help understand the functionalities and features of python and data structures concepts.
+Import files using their names and check for the functions available in them using help(name_of_the_file)
+
+Example:
+from findpos import *
+help(findpos)
+

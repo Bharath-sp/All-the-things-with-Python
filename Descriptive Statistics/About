@@ -1,0 +1,4 @@
+This folder contains code for computing Descriptive statistics using Python's built-in functions, SciPy, NumPy, and Pandas packages.
+References:
+1. Python Statistics Fundamentals: How to Describe Your Data - https://realpython.com/python-statistics/#measures-of-correlation-between-pairs-of-data
+2. NPTEL Course on Data Analytics with Python by Prof. Ramesh Anbanandam - https://nptel.ac.in/courses/106/107/106107220/
